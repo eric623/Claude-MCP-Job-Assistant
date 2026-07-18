@@ -18,7 +18,7 @@ JOBS_DIR.mkdir(parents=True, exist_ok=True)
 TEMP_DIR.mkdir(parents=True, exist_ok=True)
 
 # API key and endpoint
-RAPIDAPI_KEY = "2ef27dea5bmsh74a08885e887ba0p1e85d9jsne41b30faeaad" 
+RAPIDAPI_KEY = "2ef..." 
 RAPIDAPI_HOST = "jsearch.p.rapidapi.com"
 
 # Initialisation de FastMCP
